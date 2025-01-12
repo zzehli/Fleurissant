@@ -14,7 +14,7 @@ And a video [demo](https://youtu.be/FxJsEk3_jPs)
 ## Dev Notes
 - Run dev env with: `./bin/dev`
 - Clear cache: `bin/rails tmp:clear`
-
+- start postgres `sudo service postgresql start`
 ## Resources
 * insert data to db:
     ```
