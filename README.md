@@ -15,6 +15,7 @@ And a video [demo](https://youtu.be/FxJsEk3_jPs)
 - Run dev env with: `./bin/dev`
 - Clear cache: `bin/rails tmp:clear`
 - start postgres `sudo service postgresql start`
+- install bundle: `bundle install`
 ## Resources
 * insert data to db:
     ```
