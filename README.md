@@ -13,6 +13,8 @@ And a video [demo](https://youtu.be/FxJsEk3_jPs)
 * UI with Tailwind and daisyUI
 * Database using Postgres
 
+## ER Diagram
+![ER diagram of Fleurissant](./Fleurissant.png)
 ## Dev Notes
 - Run dev env with: `./bin/dev`
 - Clear cache: `bin/rails tmp:clear`
